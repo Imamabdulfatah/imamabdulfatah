@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=13F755&width=435&lines=%F0%9F%92%BB+I'm+Web+Developer;%F0%9F%93%88+I'm+Data+Engineer;%F0%9F%93%B1+I'm+Mobile+Developer;+%F0%9F%93%8A+I+am+interested+in+project+manager;%F0%9F%92%B0+I+am+Entrepreneur)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="75" height="100" src="me.jpeg">
+<img align="right" alt="Coding" width="200" height="275" src="me.jpeg">
 
 - 👨‍💻 You can also check out my portfolio at [https://github.com/Imamabdulfatah](https://github.com/Imamabdulfatah)
 
