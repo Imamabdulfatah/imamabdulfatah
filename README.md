@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/bayu-iswahyudi-761457226/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/imam-abdul-fatah-739735210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bayu1s" height="30" width="40" /></a>
 <a href="https://www.instagram.com/imamabdul8875/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bayu1swahyudi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCf59ln6xsnWGMTDv9hqN-5Q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="khushboo goel" height="30" width="40" /></a>
 
